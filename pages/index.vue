@@ -5,7 +5,6 @@
 <script>
 export default {
   name: 'IndexPage',
-  
   head() {
     return {
       title: 'Application Nuxt Posts | Home',
